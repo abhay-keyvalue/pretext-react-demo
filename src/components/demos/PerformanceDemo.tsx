@@ -55,7 +55,7 @@ export default function PerformanceDemo() {
     for (let i = 0; i < iterations; i++) {
       const width = 300 + (i % 400)
       testDiv.style.width = `${width}px`
-      const _ = testDiv.offsetHeight
+      void testDiv.offsetHeight
     }
     const elapsed = performance.now() - start
 

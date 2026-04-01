@@ -1,6 +1,5 @@
 import { useState, useEffect, useMemo, useRef } from 'react'
 import { prepare, layout } from '@chenglou/pretext'
-import type { PreparedText } from '@chenglou/pretext'
 
 interface Item {
   id: number
