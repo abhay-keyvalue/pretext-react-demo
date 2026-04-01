@@ -2,6 +2,10 @@
 
 A comprehensive React + Vite demonstration of the [Pretext](https://github.com/chenglou/pretext) library, showcasing revolutionary text measurement and layout without DOM reflow.
 
+## 🌐 Live Demo
+
+**[View Live Demo →](https://abhay-keyvalue.github.io/pretext-react-demo/)**
+
 ## 🚀 Quick Start
 
 ```bash
